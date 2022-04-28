@@ -1,0 +1,20 @@
+# Introduction
+Provide an overview of the problem and a literature review. You should address: what gap or question are you addressing? What has been done before?
+# Methods
+### Model description
+Describe how your model works in terms of its: agents, interactions, environment, model schedule/timing
+* It’s a good idea to use the PARTE and ODD frameworks as a guide 
+* Flow charts & visuals are good! Illustrate the sequence of events in your model using a flow chart. Show how the agents operate, how and when interactions happen, the sequence of events in each time step, etc.
+* From your model description, someone should be able to implement a version of your model
+
+### Model analysis
+Describe the parameter settings you swept through and the analyses you ran. Someone should be able to recreate your analyses from your description, so be specific and complete!
+* If your model is stochastic, you may need to run multiple trials at the same parameter settings.
+
+# Results
+Provide qualitative and quantitative summaries of how your model behaves. Provide graphs and plots of model outcomes at different settings as needed.
+
+# Discussion
+Return to the question or problem in your introduction—what do your results say about this problem? Put your results in a broader context. Describe the strengths, limitations, and potential future directions of your work. 
+* If you think there are still some bugs driving your model’s behavior, this is the place to discuss this
+* Also a good place to talk about how you might verify, validate, or extend the model in the future
