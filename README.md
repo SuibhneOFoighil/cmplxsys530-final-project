@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 ## Closing the Gap: Corporate Boards Add More Women when Interlocked with Diverse Peers
+=======
+WIP!
+# Introduction
+Provide an overview of the problem and a literature review. You should address: what gap or question are you addressing? What has been done before?
+# Methods
+### Model description
+Describe how your model works in terms of its: agents, interactions, environment, model schedule/timing
+* It’s a good idea to use the PARTE and ODD frameworks as a guide 
+* Flow charts & visuals are good! Illustrate the sequence of events in your model using a flow chart. Show how the agents operate, how and when interactions happen, the sequence of events in each time step, etc.
+* From your model description, someone should be able to implement a version of your model
+>>>>>>> e83d394024ffb45a2257141b10f70b1711585c0f
 
 Suibhne Ó Foighil, 4/27/2022, [GitHub](https://github.com/suibhne-ofoighil/cmplxsys530-final-project) Repo
 
